@@ -1,0 +1,27 @@
+# Permalinks
+permalink: pretty
+
+# Setup
+title: Cute Jekyll
+description: Making jekyll cute again.
+url: ""
+baseurl: ""
+
+# Uncomment for google analytics
+# analytics_id: ""
+
+# Assets
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# About/contact
+author:
+  name: Dan Gold
+  url: https://twitter.com/danielcgold.com
+  email: me@danielcgold.com
+
+# Custom vars
+version: 0.0.1
+github:
+  repo: https://github.com/danielcgold/cute-jekyll
