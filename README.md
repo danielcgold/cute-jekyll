@@ -1,4 +1,4 @@
-# cute-jekyll
+# Pup
 Making jekyll cute again.
 
 ## Usage
