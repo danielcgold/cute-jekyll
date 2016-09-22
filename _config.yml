@@ -2,7 +2,7 @@
 permalink: pretty
 
 # Setup
-title: Cute Jekyll
+title: Pup
 description: Making jekyll cute again.
 url: ""
 baseurl: ""
@@ -24,4 +24,4 @@ author:
 # Custom vars
 version: 0.0.1
 github:
-  repo: https://github.com/danielcgold/cute-jekyll
+  repo: https://github.com/danielcgold/pup
