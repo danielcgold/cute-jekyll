@@ -7,6 +7,9 @@ description: Making jekyll cute again.
 url: ""
 baseurl: ""
 
+# Build settings
+markdown: kramdown
+
 # Uncomment for google analytics
 # analytics_id: ""
 
@@ -21,7 +24,14 @@ author:
   url: https://twitter.com/danielcgold.com
   email: me@danielcgold.com
 
+# RSS
+xml_limit: 20
+
 # Custom vars
 version: 0.0.1
 github:
   repo: https://github.com/danielcgold/pup
+
+# Plugins
+gems:
+  - jekyll-sitemap
