@@ -1,5 +1,5 @@
 # Pup
-Making jekyll cute again.
+Making jekyll cute again. Inspired by [Poole](https://github.com/poole/poole).
 
 ## Usage
 
