@@ -1,0 +1,37 @@
+---
+# Build the sites CSS
+# NOTE: This comment is required by jekyll
+---
+
+@import "base";
+
+.guide-hero {
+  height: 100vh;
+
+  h1 {
+    margin: 0;
+    text-align: center;
+    line-height: 1;
+  }
+
+  p {
+    font-weight: 200;
+    letter-spacing: .5px;
+    font-size: 27px;
+    text-align: center;
+  }
+
+  .guide-emoji {
+    display: block;
+    font-size: 75px;
+    position: relative;
+
+    &.hat {
+      z-index: 5;
+    }
+
+    &.dog {
+      margin-top: -30px;
+    }
+  }
+}

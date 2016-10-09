@@ -1,0 +1,28 @@
+.button {
+  padding: 15px 20px;
+  background: #000;
+  color: #fff;
+  border-radius: 4px;
+  display: table;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  line-height: 1;
+  text-decoration: none;
+  font-size: 13px;
+
+  &.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  &.ghost-blue {
+    background: transparent;
+    border: solid 2px;
+    color: #00a8ff;
+
+    &:hover {
+      color: lighten(#00a8ff, 20);
+    }
+  }
+}
